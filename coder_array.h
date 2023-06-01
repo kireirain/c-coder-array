@@ -1,6 +1,3 @@
-/* Copyright 2019-2021 The MathWorks, Inc. */
-/* Copied from
- * fullfile(matlabroot,'extern','include','coder','coder_array','coder_array_rtw_cpp11.h') */
 
 #ifndef _mw_coder_array_cpp11_h
 #define _mw_coder_array_cpp11_h
